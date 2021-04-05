@@ -3053,7 +3053,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Frameworks",
 				);
-				"GCC_PREPROCESSOR_DEFINITIONS[arch=*]" = "BARCELONA_NO_SECURITY=1";
+				"GCC_PREPROCESSOR_DEFINITIONS[arch=*]" = "BARCELONA_NO_SECURITY=0";
 				INFOPLIST_FILE = "imessage-rest/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
